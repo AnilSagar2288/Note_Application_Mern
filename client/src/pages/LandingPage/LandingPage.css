@@ -1,0 +1,41 @@
+.main{
+    min-height: 90vh;
+    display: flex;
+    justify-content: center;
+    padding-top: 13%;
+    background-image: url(../../bg.jpg);
+    background-position: center;
+    background-size: cover;
+}
+
+.intro-text{
+    width: 100%;
+    text-align: center;
+}
+
+.title{
+    font-size: 74px;
+}
+.subtitle{
+    font-size: 30px;
+    padding-bottom:17px;
+}
+
+.btnContainer{
+    display: flex;    
+    justify-content: center;    
+    gap: 20px;
+}
+
+@media screen and (max-width: 786px) {
+    .title{
+        font-size: 60px;
+        padding: 40px 20px 0px 20px;
+    }
+
+    .subtitle{
+        font-size: 25px;
+        padding-bottom: 10px;
+    }
+    
+  }

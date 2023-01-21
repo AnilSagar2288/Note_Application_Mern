@@ -1,0 +1,9 @@
+.accordion-button::after{
+    content: none !important;
+}
+
+.accordion-button{
+    padding: 10px 10px;
+    background-color: rgba(139,192,210,1);
+}
+
