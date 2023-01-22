@@ -66,7 +66,7 @@ function CreateNote() {
               />
             </Form.Group>
             {content && (
-              <Card>
+              <Card className="mt-3">
                 <Card.Header>Note Preview</Card.Header>
                 <Card.Body>
                   <ReactMarkdown>{content}</ReactMarkdown>
