@@ -36,7 +36,7 @@ Here, basically I have performed the "CURD" operation. Attaching some screen sho
 # Installation Process
 
 1. npm i
-2. cd .\frontend\
-3. npm i                          // this one is for frontend node_module
+2. cd .\client\
+3. npm i                          // this one is for client node_module
 4. npm run dev
 
