@@ -33,3 +33,10 @@ Here, basically I have performed the "CURD" operation. Attaching some screen sho
 
 ![Edit Profile Screen](https://user-images.githubusercontent.com/119804168/213908186-38b03bca-78c9-4ffe-af5d-6d65bcacc0bc.png)
 
+# Installation Process
+
+1. npm i
+2. cd .\frontend\
+3. npm i                          // this one is for frontend node_module
+4. npm run dev
+
